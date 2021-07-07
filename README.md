@@ -1,2 +1,2 @@
-# pinktaffy.gihub.io
+# pinktaffy.github.io
 Need a little break
