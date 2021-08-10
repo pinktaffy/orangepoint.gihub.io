@@ -32,7 +32,7 @@ site-twitter: #if your site has a twitter account, enter it here
 author: pinktaffy # add your name
 author-img: profile.jpg # add your photo
 og_image: profile.jpg
-about-author: " I talk to the wind, The wind cannot hear. " | 凌晨开车越过山道，透过前窗玻璃，看到外面悬着薄薄一层雾气。这时我就会想起王小波说过的"冷牛般的雾"这个比喻。所以动的，不动的都被困在冷冰冰的白色里。 # add description
+about-author: " I talk to the wind, The wind cannot hear. 凌晨开车越过山道, 透过前窗玻璃, 看到外面悬着薄薄一层雾气. 这时我就会想起王小波说过的: 冷牛般的雾, 这个比喻. 所以动的, 不动的都被困在冷冰冰的白色里." # add description
 # social-twitter: # add your Twitter handle
 # social-facebook: # add your Facebook handle
 social-github: pinktaffy # add your Github handle
