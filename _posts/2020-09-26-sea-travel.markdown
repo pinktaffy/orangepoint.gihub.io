@@ -111,7 +111,9 @@ Move on，
 
 太久没有摄入酒精，在车里我开始头晕头疼，幸好本想再续一轮的，街边有尿骚味的酒吧关门，我得以回酒店躺尸。
 
-	![Cook Weaver](https://github.com/pinktaffy/pinktaffy.github.io/blob/main/assets/img/cookweaver.jpg)
+<p>
+    <img src="../assets/img/cookweaver.jpg" width="340" height="240" />
+</p>
 Cook Weaver 酒水单部分截图
 
 **4. 雨天决行-声音之城**
